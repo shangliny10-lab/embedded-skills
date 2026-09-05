@@ -2,6 +2,9 @@
 name: embedded-protocols
 description: 嵌入式通信协议开发指南，覆盖 UART/USART、SPI、I2C/TWI、CAN、1-Wire、Modbus（RTU/ASCII/TCP）、RS-485、USB CDC、以太网/TCP-UDP、MQTT 等协议的原理、时序、代码实现、调试方法与常见问题排查。用户提及串口、SPI、I2C、CAN、Modbus、RS485、通信协议、总线时使用。
 ---
+![通信协议时序图](images/protocol-timing.png)
+
+
 
 # 嵌入式通信协议开发指南
 

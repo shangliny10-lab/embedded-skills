@@ -2,6 +2,9 @@
 name: embedded-arduino-dev
 description: Arduino 开发全流程指南，覆盖 Arduino IDE / PlatformIO 工程、常用板卡（Uno/Nano/Mega/ESP32/ESP8266）、基础语法、传感器驱动、通信协议、库管理、调试与烧录。用户提及 Arduino、.ino 文件、ESP32、ESP8266、Arduino 库、传感器接线时使用。
 ---
+![Arduino / ESP32 开发生态](images/arduino-esp32-ecosystem.png)
+
+
 
 # Arduino 开发指南
 

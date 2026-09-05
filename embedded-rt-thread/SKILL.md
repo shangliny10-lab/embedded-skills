@@ -2,6 +2,9 @@
 name: embedded-rt-thread
 description: RT-Thread 实时操作系统开发指南，覆盖内核配置、线程管理、调度器、IPC（信号量/互斥量/事件集/邮箱/消息队列）、内存管理、设备驱动框架、FinSH 控制台、组件（DFS/网络/Sensor/Audio）、ENV 工具与 SCons 构建系统。适用于 STM32/ESP32/RISC-V 等平台的 RT-Thread Nano/标准版开发。用户提及 RT-Thread、RTT、FinSH、rtthread、国产 RTOS 时使用。
 ---
+![RT-Thread 系统架构](images/rtthread-architecture.png)
+
+
 
 # RT-Thread 开发指南
 

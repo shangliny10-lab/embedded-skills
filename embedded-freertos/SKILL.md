@@ -2,6 +2,9 @@
 name: embedded-freertos
 description: FreeRTOS 实时操作系统开发指南，覆盖任务管理、调度器、队列、信号量、互斥量、事件组、任务通知、软件定时器、内存管理、中断安全 API、优先级反转与死锁排查。适用于 STM32/ESP32/ARM Cortex-M 等平台的 FreeRTOS 移植与应用开发。用户提及 FreeRTOS、RTOS、任务调度、队列、信号量、多任务时使用。
 ---
+![FreeRTOS 内核架构](images/freertos-architecture.png)
+
+
 
 # FreeRTOS 开发指南
 

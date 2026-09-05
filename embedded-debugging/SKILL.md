@@ -2,6 +2,9 @@
 name: embedded-debugging
 description: 嵌入式系统调试技巧与工具指南，覆盖串口调试、JTAG/SWD 在线调试、GDB 远程调试、逻辑分析仪、示波器、printf/日志调试、断言、故障分析（HardFault/BusFault）、栈溢出检测、内存泄漏排查、功耗调试、实时性分析、常见 bug 模式与排查方法论。适用于 STM32/ESP32/ARM Cortex-M/RISC-V 等平台的调试工作。用户提及嵌入式调试、HardFault、栈溢出、JTAG、SWD、GDB、逻辑分析仪、bug排查时使用。
 ---
+![嵌入式调试方法](images/debugging-methods.png)
+
+
 
 # 嵌入式系统调试指南
 

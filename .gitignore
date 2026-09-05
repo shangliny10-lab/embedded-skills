@@ -1,0 +1,50 @@
+# Build artifacts
+*.o
+*.ko
+*.obj
+*.exe
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+*.sym
+*.order
+
+# Build directories
+build/
+output/
+target/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+*.uvprojx
+*.uvoptx
+*.ioc
+*.ewp
+*.eww
+*.ewd
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache

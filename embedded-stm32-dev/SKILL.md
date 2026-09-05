@@ -2,6 +2,9 @@
 name: embedded-stm32-dev
 description: STM32 微控制器开发全流程指南，覆盖 CubeMX 配置、HAL/LL 库编程、Keil/STM32CubeIDE 工程、调试烧录、常见外设驱动（GPIO/UART/SPI/I2C/TIM/ADC/DMA）、中断与低功耗。用户提及 STM32、HAL 库、CubeMX、Keil 工程、STM32 外设、STM32 调试时使用。
 ---
+![STM32 开发流程](images/stm32-ecosystem.png)
+
+
 
 # STM32 开发指南
 

@@ -2,6 +2,9 @@
 name: embedded-zephyr
 description: Zephyr RTOS 开发指南，覆盖 Zephyr 环境搭建（West）、工程结构、设备树（DTS）、Kconfig 配置、线程管理、内核服务（信号量/互斥量/消息队列/事件）、设备驱动模型、Devicetree 绑定、日志系统（Logging）、Shell、网络栈（LwIP）、蓝牙 BLE。适用于 nRF52/nRF91/STM32/ESP32 等平台的 Zephyr 应用开发。用户提及 Zephyr、west、nRF Connect、Nordic、Zephyr RTOS 时使用。
 ---
+![Zephyr 开发流程](images/zephyr-workflow.png)
+
+
 
 # Zephyr RTOS 开发指南
 

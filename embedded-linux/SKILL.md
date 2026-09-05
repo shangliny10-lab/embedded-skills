@@ -2,6 +2,9 @@
 name: embedded-linux
 description: 嵌入式 Linux 开发指南，覆盖交叉编译工具链、U-Boot 引导、Linux 内核配置与编译、设备树（DTS/DTB）、根文件系统构建（Buildroot/Yocto）、字符设备驱动、平台驱动、设备树绑定、sysfs/proc 调试、系统启动流程、常见嵌入式板卡（树莓派/全志/瑞芯微/NXP i.MX）开发。用户提及嵌入式 Linux、设备树、内核编译、交叉编译、U-Boot、Buildroot、Yocto、驱动开发时使用。
 ---
+![嵌入式 Linux 启动流程](images/linux-boot-flow.png)
+
+
 
 # 嵌入式 Linux 开发指南
 

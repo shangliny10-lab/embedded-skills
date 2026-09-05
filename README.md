@@ -1,6 +1,16 @@
+<div align="center">
+
+![Embedded Skills Banner](assets/images/repo-banner.png)
+
 # Embedded Skills 嵌入式开发技能集
 
+</div>
+
 一套面向嵌入式系统开发的 AI Agent Skills、示例项目和实用工具，覆盖从裸机开发到嵌入式 Linux 的完整技术栈。每个 Skill 包含原理说明、代码模板、调试技巧和常见问题排查，可直接用于 Doubao / 豆包等支持 Skill 的 AI 助手。
+
+## 系统架构
+
+![嵌入式系统架构](assets/images/embedded-architecture.png)
 
 ## 技能列表（Skills）
 
@@ -14,6 +24,16 @@
 | [embedded-protocols](./embedded-protocols) | 嵌入式通信协议 | UART、SPI、I2C、CAN、1-Wire、RS-485、Modbus RTU/TCP、以太网/TCP-UDP、MQTT |
 | [embedded-linux](./embedded-linux) | 嵌入式 Linux 开发 | 交叉编译、U-Boot、内核编译、设备树、Buildroot/Yocto、字符设备驱动、平台驱动、调试 |
 | [embedded-debugging](./embedded-debugging) | 嵌入式调试技巧 | 串口调试、JTAG/SWD、GDB、HardFault 分析、栈溢出检测、内存泄漏、逻辑分析仪、功耗调试 |
+
+## 技术图解
+
+### 通信协议对比
+
+![通信协议对比](assets/images/communication-protocols.png)
+
+### RTOS 任务状态机
+
+![RTOS任务状态机](assets/images/rtos-task-states.png)
 
 ## 示例项目（Examples）
 
